@@ -1,3 +1,9 @@
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+
 # To jest H1
 A to już nie jest H1
 ## To znowu jest H2
